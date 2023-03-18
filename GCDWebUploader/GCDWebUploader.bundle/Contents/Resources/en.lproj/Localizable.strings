@@ -1,3 +1,6 @@
-"PROLOGUE" = "<p>Drag &amp; drop files on this window or use the \"Upload Files&hellip;\" button to upload new files.</p>";
+
+//chandani change
+//"PROLOGUE" = "<p>Drag &amp; drop files on this window or use the \"Upload Files&hellip;\" button to upload new files.</p>";
+"PROLOGUE" = "<p>Download Files.</p>";
 "EPILOGUE" = "";
 "FOOTER_FORMAT" = "%@ %@";
